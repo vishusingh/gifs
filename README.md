@@ -1,8 +1,8 @@
 # gif storage
 
-Storage place for all my favorite gifs.
+My version of [jglovier's](https://github.com/jglovier/gifs) epic gif repo.
 
-![thumbs up](support/thumbs-up.gif)
+![hammertime](fuck-yeah/hammer-time.gif)
 
 
 ## Contributing
