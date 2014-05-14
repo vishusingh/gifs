@@ -20,10 +20,10 @@
 - path: ahhhh!!/whaddacock.gif
   modified_time: 1391377937
   extname: .gif
-- path: badass/BadAssCopCarFlipArrest.gif
+- path: badass/bad-ass-cop.gif
   modified_time: 1391377928
   extname: .gif
-- path: badass/no_way_Neil_deGrasse_Tyson.gif
+- path: badass/neil-degrasse-tyson-uhh.gif
   modified_time: 1391377930
   extname: .gif
 - path: badass/skate-rope.gif
@@ -56,7 +56,10 @@
 - path: doge/doge.gif
   modified_time: 1391377931
   extname: .gif
-- path: doge/pQy12qd.gif
+- path: doge/hoth-puppy.gif
+  modified_time: 1391377936
+  extname: .gif
+- path: doge/patty-cake.gif
   modified_time: 1399050652
   extname: .gif
 - path: epic/expedition.gif
@@ -85,9 +88,6 @@
   extname: .gif
 - path: fail/wrong-tool.gif
   modified_time: 1391377933
-  extname: .gif
-- path: fuck yeah/16-Obama-Shoulder-Brush.gif
-  modified_time: 1391377931
   extname: .gif
 - path: fuck yeah/bear-hula-hoop.gif
   modified_time: 1391377928
@@ -122,6 +122,9 @@
 - path: fuck yeah/obama-kids-door-notext.gif
   modified_time: 1391377939
   extname: .gif
+- path: fuck yeah/obama-shoulder-brush.gif
+  modified_time: 1391377931
+  extname: .gif
 - path: fuck yeah/smooth-swing-jump.gif
   modified_time: 1391377938
   extname: .gif
@@ -140,9 +143,6 @@
 - path: fuck yeah/world-order.gif
   modified_time: 1391377938
   extname: .gif
-- path: fuck you/finger2.gif
-  modified_time: 1391377934
-  extname: .gif
 - path: fuck you/hobbitese.gif
   modified_time: 1391280093
   extname: .gif
@@ -150,6 +150,9 @@
   modified_time: 1391377938
   extname: .gif
 - path: fuck you/mr-chow-haha.gif
+  modified_time: 1391377934
+  extname: .gif
+- path: fuck you/the-points-dont-matter.gif
   modified_time: 1391377934
   extname: .gif
 - path: gg/assist.gif
@@ -161,17 +164,14 @@
 - path: gg/thumbs-up.gif
   modified_time: 1391377932
   extname: .gif
-- path: haters gonna hate/iS5gwqV.gif
+- path: haters gonna hate/thats-my-fetish.gif
   modified_time: 1399348785
   extname: .gif
-- path: hey! listen!/Can-You-Hear-Me-Now-Bear-Reaction-Gif.gif
+- path: hey! listen!/hey-listen-bear.gif
   modified_time: 1391377928
   extname: .gif
 - path: ho ho ho/ho-ho-ho.gif
   modified_time: 1391318614
-  extname: .gif
-- path: knailed it/hoth-puppy.gif
-  modified_time: 1391377936
   extname: .gif
 - path: knailed it/knailed-it-car-jump.gif
   modified_time: 1391377935
@@ -188,7 +188,7 @@
 - path: knailed it/knailed-it-pingles-lid.gif
   modified_time: 1391377935
   extname: .gif
-- path: lolwhut/accident5.gif
+- path: lolwhut/accident.gif
   modified_time: 1391377927
   extname: .gif
 - path: lolwhut/boston-terrier-meets-ball.gif
@@ -200,6 +200,9 @@
 - path: lolwhut/hambergler.gif
   modified_time: 1391377936
   extname: .gif
+- path: lolwhut/insanity.gif
+  modified_time: 1399090871
+  extname: .gif
 - path: lolwhut/lolwat.gif
   modified_time: 1391377936
   extname: .gif
@@ -209,28 +212,25 @@
 - path: lolwhut/milk-out-noze.gif
   modified_time: 1391377936
   extname: .gif
-- path: lolwhut/MmoTW.gif
-  modified_time: 1399090871
-  extname: .gif
 - path: lolwhut/toll-booth-ramp.gif
   modified_time: 1391377927
-  extname: .gif
-- path: mhm, yep/5agmIXx.gif
-  modified_time: 1399348762
-  extname: .gif
-- path: mhm, yep/eI2QDai.gif
-  modified_time: 1395867582
   extname: .gif
 - path: mhm, yep/katy-nod-dance.gif
   modified_time: 1391281722
   extname: .gif
-- path: mind blown/mind-blown-2.gif
+- path: mhm, yep/poop-boob.gif
+  modified_time: 1399348762
+  extname: .gif
+- path: mind blown/cosmos.gif
   modified_time: 1391377936
   extname: .gif
-- path: no/7ccO9TE.gif
+- path: mind blown/hm-fascinating.gif
+  modified_time: 1395867582
+  extname: .gif
+- path: no/frisbee-dog.gif
   modified_time: 1399349146
   extname: .gif
-- path: no/k4eB2iA.gif
+- path: no/justin-timberlake.gif
   modified_time: 1399351990
   extname: .gif
 - path: no/nope-batman.gif
@@ -254,7 +254,7 @@
 - path: no y/new-girl-crying.gif
   modified_time: 1391281499
   extname: .gif
-- path: no y/p9wnQ.gif
+- path: no y/poor-spidey.gif
   modified_time: 1399355254
   extname: .gif
 - path: no y/sad-child.gif
@@ -284,10 +284,10 @@
 - path: party hard/fabulous-kid-asian-break-dance.gif
   modified_time: 1391281718
   extname: .gif
-- path: party hard/flailing-arms-2.gif
+- path: party hard/flailing-arms-guys.gif
   modified_time: 1391377936
   extname: .gif
-- path: party hard/flailing-arms-guys.gif
+- path: party hard/flailing-arms.gif
   modified_time: 1391377936
   extname: .gif
 - path: party hard/party-hard.gif
@@ -329,7 +329,7 @@
 - path: so sad/sad-cat.gif
   modified_time: 1391281573
   extname: .gif
-- path: ugh/Dwight-Schrute-Shakes-Head-and-Rolls-Eyes.gif
+- path: ugh/dwight-schrute-eyeroll.gif
   modified_time: 1391377930
   extname: .gif
 - path: ugh/give-up.gif
@@ -344,7 +344,7 @@
 - path: ugh/ted-confused.gif
   modified_time: 1391377930
   extname: .gif
-- path: WHAT/36-Friday-Damn.gif
+- path: WHAT/damn.gif
   modified_time: 1391377937
   extname: .gif
 - path: WHAT/fresh-prince-omg.gif
@@ -368,10 +368,7 @@
 - path: whut/simon-cowel-glazed-look.gif
   modified_time: 1391377930
   extname: .gif
-- path: WTF/alen-rickman.gif
-  modified_time: 1391377939
-  extname: .gif
-- path: WTF/come-on.gif
+- path: WTF/alen-rickman-tableflip.gif
   modified_time: 1391377939
   extname: .gif
 - path: WTF/conan-ragequit.gif
