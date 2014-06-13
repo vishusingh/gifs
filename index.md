@@ -6,4 +6,6 @@ layout: home
 
 Oh Hai! You've found my Gif collection.
 
-Fork me on GitHub at [helenvholmes/cats](https://github.com/helenvholmes/cats)
+Fork me on GitHub at [helenvholmes/gifs](http://github.com/helenvholmes/gifs).
+
+Check out my other site for [cat gifs too](http://helenvholmes.com/cats).
